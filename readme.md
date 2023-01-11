@@ -5,7 +5,7 @@ A short project to automatically update MVPID in Wordpress posts.
 
 
 
-## WP Updater for docs creater ID
+## WP Updater for docs creatorID
 - Updates single post: ``node ./main.js --postId=6794 --mvpId=AZ-MVP-5003833`` 
 - MVPID is something you get from your MVP program manager, in my case it is our fantastic Community Program Manager [Tina Stenderup-Larsen](https://twitter.com/TinaStenderup)
 -  You can find the postId by viewing the post draft
