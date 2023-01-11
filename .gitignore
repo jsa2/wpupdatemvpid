@@ -1,0 +1,7 @@
+node_modules
+**/contenttest.JSON
+**/spec.JSON
+**/config.js
+**/temp.*
+spec.json
+
